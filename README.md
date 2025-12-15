@@ -109,5 +109,3 @@ BI-Portfolio/
 - 🏠 Hong Kong
 - 💼 LinkedIn: (link)
 - 📧 Email: Available upon request via LinkedIn
-
-
