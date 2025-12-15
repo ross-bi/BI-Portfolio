@@ -109,9 +109,4 @@ BI-Portfolio/
 - 💼 LinkedIn: (add your link)
 - 📧 Email: Available upon request via LinkedIn
 
-如果你想，我可以幫你把 每個專案的 README.md 也寫成同樣專業的格式，例如：
-- Superstore Sales Analysis
-- Customer Behavior Analysis
-- Advertising ROI
-- Google Trends BI Project
-告訴我你想先做哪一個，我就能立即幫你整理。
+
