@@ -18,7 +18,7 @@ Data Modeling & ETL
 - ETL Pipelines
 Other Tools
 - Excel (Pivot Tables)
-- NAS / UPS System Management
+- NAS / UPS System setup and maintenance
 
 # Portfolio Projects
 This portfolio showcases four business intelligence and analytics projects built using real-world public datasets. Each project demonstrates end‑to‑end analytical skills, including data extraction, cleaning, modeling, and visualization using MySQL, PostgreSQL, BigQuery, Power BI, and Tableau.
