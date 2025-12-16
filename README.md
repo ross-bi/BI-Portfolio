@@ -111,7 +111,7 @@ BI-Portfolio/
 
 # Contact
 - 🏠 Hong Kong
-- 💼 LinkedIn: (link)
+- 💼 LinkedIn: (TBA)
 - 📧 Email: Available upon request via LinkedIn
 
 
