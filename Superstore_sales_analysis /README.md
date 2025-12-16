@@ -1,5 +1,5 @@
 # Project
-📊 Superstore Sales & Profit Analysis
+Superstore Sales & Profit Analysis
 MySQL • Python • Tableau • Data Visualization Project
 
 ##  Project Overview
