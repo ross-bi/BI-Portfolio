@@ -2,34 +2,34 @@
 Welcome to my Business Intelligence (BI) portfolio. This repository showcases my end‑to‑end analytics capabilities across SQL, Python, Power BI, Tableau, data modeling, and business insights. It reflects my transition from operations and coordination work into a BI‑focused career through continuous learning, hands‑on projects, and real business applications.
 
 # About Me
-I am a Business Intelligence & Operations Coordinator based in Hong Kong, with over four years of experience in a small trading company environment. Although I only completed secondary school, I have built my BI skillset through disciplined self‑learning, completing eight professional certificates and applying analytics directly in my workplace.
-Professional background:
-- Current role: Business Intelligence & Operations Coordinator (since Oct 2025)
-- Previous role: Sales & Shipping Coordinator (2021–2025)
-- Company size: A small trading company in Hong Kong
-###  Responsibilities included:
-- Building and maintaining warehouse tracking systems in Excel
-- Preparing import/export documents, invoices, packing lists
-- Managing bonded tobacco permits and license renewals
-- Building and maintaining NAS (Network Attached Storage) and UPS systems (Uninterruptible Power Supply)
-- Sales reporting using Excel Pivot Tables
-- From 2025 onward: creating Power BI dashboards connected to NAS‑hosted Excel sales data
-My journey reflects a practical, business‑driven approach to BI: solving real operational problems with data.
+Business Intelligence & Operations professional based in Hong Kong, focusing on data analytics, dashboard development, and workflow optimization. I currently manage warehouse systems, export/import documentation, and internal BI tools while building analytics solutions across Excel and Power BI.
 
-# Professional Certificates (2025)
+# Professional Certificates
 
 | Certificate              | Institution                        |
 |-------------------|--------------------------------|
 | Google Business Intelligence Professional Certificate | Google |
 | Google Data Analytics Professional Certificate | Google |
 | IBM Data Analyst Professional Certificate | IBM  |
-| IBM Generative AI for BI Analysts Specialization   | IBM |
 | Microsoft Power BI Data Analyst Professional Certificate  | Microsoft |
 | Business Analytics Specialization   | Wharton School, University of Pennsylvania |
-| AI for Business Specialization   | University of Pennsylvania |
-| Business Strategy Specialization   | University of Virginia |
 
-# Project Portfolio (2025–2026)
+# Skills & Tools
+Programming & Querying
+- SQL (MySQL, PostgreSQL, BigQuery)
+- Python (Pandas, Plotly)
+BI & Visualization
+- Power BI
+- Tableau
+Data Modeling & ETL
+- Star Schema
+- Data Cleaning
+- ETL Pipelines
+Other Tools
+- Excel (Pivot Tables)
+- NAS / UPS System Management
+
+# Project Portfolio
 Below are the BI projects I am building using real public datasets from BigQuery and other open sources. Tools include MySQL, PostgreSQL, BigQuery, Python, Power BI, and Tableau.
 
 ## 1. Product Sales & Profitability Analysis
@@ -72,20 +72,6 @@ BI deliverables:
 - Trend analysis dashboard
 - Combined analysis with e‑commerce data
 
-# Skills & Tools
-Programming & Querying
-- SQL (MySQL, PostgreSQL, BigQuery)
-- Python (Pandas, Plotly)
-BI & Visualization
-- Power BI
-- Tableau
-Data Modeling & ETL
-- Star Schema
-- Data Cleaning
-- ETL Pipelines
-Other Tools
-- Excel (Pivot Tables)
-- NAS / UPS System Management
 
 # Repository Structure
 ```
