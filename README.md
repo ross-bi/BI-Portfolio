@@ -86,30 +86,24 @@ BI-Portfolio/
 # Professional Certificates
 ### Core BI & Data Analytics
 
-| Certificate              | Institution                        |
-|-------------------|--------------------------------|
-| Google Business Intelligence Professional Certificate | Google |
-| Google Data Analytics Professional Certificate | Google |
-| IBM Data Analyst Professional Certificate
-<a href="https://coursera.org/share/3cebba22602f234e5f467d1fadf31d7a">
-  <img src="https://img.shields.io/badge/IBM_Data_Analyst-Professional_Certificate-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Analyst">
-</a>
-| IBM  |
-| IBM Generative AI for BI Analysts Specialization | IBM |
-| Microsoft Power BI Data Analyst Professional Certificate  | Microsoft |
+| Certificate              | Institution                        |  Verification |
+|-------------------|--------------------------------|-------------|
+| Google Business Intelligence Professional Certificate | Google | <div align="center"><a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/P6RVCIH4QIRA"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+| Google Data Analytics Professional Certificate | Google | <div align="center"><a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/RB0NWMXRN2MQ"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+| IBM Data Analyst Professional Certificate| IBM  | <div align="center"><a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/2VW236K260MZ"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+| IBM Generative AI for BI Analysts Specialization | IBM | <div align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/142IUDS1KXQV"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+| Microsoft Power BI Data Analyst Professional Certificate  | Microsoft | <div align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JZMXX254FKRO"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
 
 
 <details>
 <summary>View All Certifications (8 total) </summary>
 
 ### Business & Strategy
-| Certificate              | Institution                        |
-|-------------------|--------------------------------|
-| Business Analytics Specialization | Wharton School, University of Pennsylvania  |
-| AI for Business Specialization  | University of Pennsylvania   |
-| Business Strategy Specialization   | University of Virginia |
-[View Certificate](https://www.coursera.org/account/accomplishments/professional-certificates/6e4aecd9dfb430886579446a20ede553)
-
+| Certificate              | Institution                        |  Verification |
+|-------------------|--------------------------------|-------------|
+| Business Analytics Specialization | Wharton School, University of Pennsylvania  | <div align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/645M6SNKGD6Q"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+| AI for Business Specialization  | University of Pennsylvania   | <div align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VD2YUSGHNWFK"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+| Business Strategy Specialization   | University of Virginia | <div align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/K1JDTG148466"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
 
 
 </details>
