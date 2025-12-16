@@ -89,8 +89,6 @@ BI-Portfolio/
 ├── Project_2/
 │   └── ...
 │
-├── LICENSE
-│
 └── README.md 
 ```
 
