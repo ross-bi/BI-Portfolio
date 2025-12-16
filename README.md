@@ -32,7 +32,7 @@ Project Highlights:
 - Performed data cleaning, aggregation, and KPI calculations in MySQL, followed by visualization in Tableau
 #### Business Value:
 Helps organizations identify high‑profit products, low‑performing categories, and evaluate promotion effectiveness to improve inventory turnover and procurement strategy.
- - See the [Superstore_sales_analysis](./Superstore_sales_analysis /) file for details.
+ - See the [Superstore_sales_analysis](./Superstore_sales_analysis/) file for details.
 
 ## 2. Customer Behavior Analysis (PostgreSQL / Power BI)
 Dataset: Kaggle — E‑Commerce Data
