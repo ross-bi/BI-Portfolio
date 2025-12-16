@@ -32,7 +32,7 @@ Other Tools
 # Portfolio Projects
 This portfolio showcases four business intelligence and analytics projects built using real-world public datasets. Each project demonstrates end‑to‑end analytical skills, including data extraction, cleaning, modeling, and visualization using MySQL, PostgreSQL, BigQuery, Power BI, and Tableau.
 
-1. Sales & Profit Analysis (MySQL / Tableau)
+## 1. Sales & Profit Analysis (MySQL / Tableau)
 Dataset: Kaggle — Superstore Sales
 Project Highlights:
 - Analyzed sales performance and profit margins across product categories
@@ -42,7 +42,7 @@ Project Highlights:
 Business Value:
 Helps organizations identify high‑profit products, low‑performing categories, and evaluate promotion effectiveness to improve inventory turnover and procurement strategy.
 
-2. Customer Behavior Analysis (PostgreSQL / Power BI)
+## 2. Customer Behavior Analysis (PostgreSQL / Power BI)
 Dataset: Kaggle — E‑Commerce Data
 Project Highlights:
 - Analyzed customer conversion rates across regions, devices, and traffic sources
@@ -52,7 +52,7 @@ Project Highlights:
 Business Value:
 Supports marketing and operations teams in optimizing ad targeting, improving customer retention, and increasing conversion rates.
 
-3. Google Trends Consumer Insights (BigQuery / Tableau)
+## 3. Google Trends Consumer Insights (BigQuery / Tableau)
 Dataset: BigQuery Public Dataset — google_trends
 Project Highlights:
 - Analyzed trending search keywords across regions and time periods
@@ -61,7 +61,7 @@ Project Highlights:
 Business Value:
 Enables businesses to understand market interest shifts, anticipate demand cycles, and support product planning and marketing strategy.
 
-4. Traffic Source & Advertising Performance Analysis (BigQuery / Power BI)
+## 4. Traffic Source & Advertising Performance Analysis (BigQuery / Power BI)
 Dataset: BigQuery Public Dataset — google_analytics_sample
 Project Highlights:
 - Compared conversion performance across traffic sources (Google, Facebook, Email)
