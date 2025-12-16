@@ -33,6 +33,7 @@ Project Highlights:
 #### Business Value:
 Helps organizations identify high‑profit products, low‑performing categories, and evaluate promotion effectiveness to improve inventory turnover and procurement strategy.
  - See the [Superstore_sales_analysis](./Superstore_sales_analysis/) file for details.
+ - <div align="center"> <a href="https://github.com/ross-bi/BI-Portfolio/tree/main/Superstore_sales_analysis%20"> <img src="https://img.shields.io/badge/Superstore_Sales_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Superstore Sales Analysis"> </a> </div> ```
 
 ## 2. Customer Behavior Analysis (PostgreSQL / Power BI)
 Dataset: Kaggle — E‑Commerce Data
