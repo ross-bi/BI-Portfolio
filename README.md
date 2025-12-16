@@ -77,8 +77,6 @@ BI deliverables:
 ```
 BI-Portfolio/
 │
-├── Certifications
-│
 ├── Superstore_Project/
 │   ├── data/
 │   ├── scripts/
@@ -88,6 +86,8 @@ BI-Portfolio/
 │
 ├── Project_2/
 │   └── ...
+│
+├── LICENSE
 │
 └── README.md 
 ```
