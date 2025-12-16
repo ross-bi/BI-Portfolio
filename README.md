@@ -32,8 +32,7 @@ Project Highlights:
 - Performed data cleaning, aggregation, and KPI calculations in MySQL, followed by visualization in Tableau
 #### Business Value:
 Helps organizations identify high‑profit products, low‑performing categories, and evaluate promotion effectiveness to improve inventory turnover and procurement strategy.
- - See the [Superstore_sales_analysis](./Superstore_sales_analysis/) file for details.
- - <div align="center"> <a href="https://github.com/ross-bi/BI-Portfolio/tree/main/Superstore_sales_analysis%20"> <img src="https://img.shields.io/badge/Superstore_Sales_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Superstore Sales Analysis"> </a> </div> ```
+ <div align="left"> <a href="https://github.com/ross-bi/BI-Portfolio/tree/main/Superstore_sales_analysis%20"> <img src="https://img.shields.io/badge/Superstore_Sales_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Superstore Sales Analysis"> </a> </div> 
 
 ## 2. Customer Behavior Analysis (PostgreSQL / Power BI)
 Dataset: Kaggle — E‑Commerce Data
@@ -42,7 +41,7 @@ Project Highlights:
 - Identified high‑value customer segments (e.g., high AOV, high repeat‑purchase rate)
 - Visualized the customer journey from ad click → cart → completed purchase
 - Used PostgreSQL for data modeling and segmentation, and Power BI for interactive dashboards
-Business Value:
+#### Business Value:
 Supports marketing and operations teams in optimizing ad targeting, improving customer retention, and increasing conversion rates.
 
 ## 3. Google Trends Consumer Insights (BigQuery / Tableau)
@@ -51,7 +50,7 @@ Project Highlights:
 - Analyzed trending search keywords across regions and time periods
 - Identified seasonal patterns and long‑term interest trends
 - Used BigQuery for large‑scale time‑series queries and Tableau for trend visualization
-Business Value:
+#### Business Value:
 Enables businesses to understand market interest shifts, anticipate demand cycles, and support product planning and marketing strategy.
 
 ## 4. Traffic Source & Advertising Performance Analysis (BigQuery / Power BI)
@@ -61,7 +60,7 @@ Project Highlights:
 - Analyzed the relationship between click‑through rate (CTR) and order conversion rate
 - Calculated ROI for different advertising campaigns
 - Used BigQuery for ETL and KPI computation, and Power BI for marketing performance dashboards
-Business Value:
+#### Business Value:
 Helps marketing teams optimize budget allocation, improve campaign effectiveness, and maximize advertising ROI.
 
 
