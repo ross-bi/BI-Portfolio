@@ -103,6 +103,8 @@ BI-Portfolio/
 | Business Analytics Specialization | Wharton School, University of Pennsylvania  |
 | AI for Business Specialization  | University of Pennsylvania   |
 | Business Strategy Specialization   | University of Virginia |
+[View Certificate](https://www.coursera.org/account/accomplishments/professional-certificates/6e4aecd9dfb430886579446a20ede553)
+
 
 
 </details>
