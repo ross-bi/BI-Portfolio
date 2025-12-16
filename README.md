@@ -4,16 +4,7 @@ Welcome to my Business Intelligence (BI) portfolio. This repository showcases my
 # About Me
 Business Intelligence & Operations professional based in Hong Kong, focusing on data analytics, dashboard development, and workflow optimization. I currently manage warehouse systems, export/import documentation, and internal BI tools while building analytics solutions across Excel and Power BI.
 
-# Professional Certificates
-
-| Certificate              | Institution                        |
-|-------------------|--------------------------------|
-| Google Business Intelligence Professional Certificate | Google |
-| Google Data Analytics Professional Certificate | Google |
-| IBM Data Analyst Professional Certificate | IBM  |
-| Microsoft Power BI Data Analyst Professional Certificate  | Microsoft |
-| Business Analytics Specialization   | Wharton School, University of Pennsylvania |
-
+  
 # Skills & Tools
 Programming & Querying
 - SQL (MySQL, PostgreSQL, BigQuery)
@@ -41,6 +32,7 @@ Project Highlights:
 - Performed data cleaning, aggregation, and KPI calculations in MySQL, followed by visualization in Tableau
 Business Value:
 Helps organizations identify high‑profit products, low‑performing categories, and evaluate promotion effectiveness to improve inventory turnover and procurement strategy.
+See the [LICENSE](./LICENSE) file for details.
 
 ## 2. Customer Behavior Analysis (PostgreSQL / Power BI)
 Dataset: Kaggle — E‑Commerce Data
@@ -91,6 +83,29 @@ BI-Portfolio/
 └── README.md 
 ```
 
+# Professional Certificates
+
+| Certificate              | Institution                        |
+|-------------------|--------------------------------|
+| Google Business Intelligence Professional Certificate | Google |
+| Google Data Analytics Professional Certificate | Google |
+| IBM Data Analyst Professional Certificate | IBM  |
+| IBM Generative AI for BI Analysts Specialization | IBM |
+| Microsoft Power BI Data Analyst Professional Certificate  | Microsoft |
+
+
+<details>
+<summary>View All Certifications (8 total) </summary>
+
+### Business & Strategy
+| Certificate              | Institution                        |
+|-------------------|--------------------------------|
+| Business Analytics Specialization | Wharton School, University of Pennsylvania  |
+| AI for Business Specialization  | University of Pennsylvania   |
+| Business Strategy Specialization   | University of Virginia |
+
+
+</details>
 
 # Contact
 - 🏠 Hong Kong
