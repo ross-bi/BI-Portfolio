@@ -103,6 +103,8 @@ BI-Portfolio/
 ├── Project_2/
 │   └── ...
 │
+├── LICENSE
+│
 └── README.md 
 ```
 
@@ -111,3 +113,10 @@ BI-Portfolio/
 - 🏠 Hong Kong
 - 💼 LinkedIn: (link)
 - 📧 Email: Available upon request via LinkedIn
+
+
+# License
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+
+
