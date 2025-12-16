@@ -29,48 +29,47 @@ Other Tools
 - Excel (Pivot Tables)
 - NAS / UPS System Management
 
-# Project Portfolio
-Below are the BI projects I am building using real public datasets from BigQuery and other open sources. Tools include MySQL, PostgreSQL, BigQuery, Python, Power BI, and Tableau.
+# Portfolio Projects
+This portfolio showcases four business intelligence and analytics projects built using real-world public datasets. Each project demonstrates end‑to‑end analytical skills, including data extraction, cleaning, modeling, and visualization using MySQL, PostgreSQL, BigQuery, Power BI, and Tableau.
 
-## 1. Product Sales & Profitability Analysis
-Business questions:
-- Which product categories generate the highest revenue and profit
-- How do promotions influence sales performance
-- Which products should be prioritized for procurement and inventory planning
-BI deliverables:
-- Product performance dashboard
-- Profitability segmentation
-- Promotion effectiveness analysis
+1. Sales & Profit Analysis (MySQL / Tableau)
+Dataset: Kaggle — Superstore Sales
+Project Highlights:
+- Analyzed sales performance and profit margins across product categories
+- Evaluated the impact of promotional discounts on revenue and profitability
+- Built an interactive product performance dashboard to support purchasing and inventory decisions
+- Performed data cleaning, aggregation, and KPI calculations in MySQL, followed by visualization in Tableau
+Business Value:
+Helps organizations identify high‑profit products, low‑performing categories, and evaluate promotion effectiveness to improve inventory turnover and procurement strategy.
 
-## 2. Customer Behavior Analysis
-Business questions:
-- How do conversion rates differ by region, device, and traffic source
-- Who are the high‑value customers (high AOV, high repeat purchase rate)
-- What does the customer journey look like from ad click to purchase
-BI deliverables:
-- Customer segmentation
-- Funnel visualization
-- Retention and repeat‑purchase insights
+2. Customer Behavior Analysis (PostgreSQL / Power BI)
+Dataset: Kaggle — E‑Commerce Data
+Project Highlights:
+- Analyzed customer conversion rates across regions, devices, and traffic sources
+- Identified high‑value customer segments (e.g., high AOV, high repeat‑purchase rate)
+- Visualized the customer journey from ad click → cart → completed purchase
+- Used PostgreSQL for data modeling and segmentation, and Power BI for interactive dashboards
+Business Value:
+Supports marketing and operations teams in optimizing ad targeting, improving customer retention, and increasing conversion rates.
 
-## 3. Traffic Source & Advertising ROI Analysis
-Business questions:
-- Which channels (Google, Facebook, Email) drive the most conversions
-- How do CTR and conversion rate correlate
-- Which campaigns deliver the highest ROI
-BI deliverables:
-- Multi‑channel performance dashboard
-- Campaign ROI comparison
-- Attribution insights
+3. Google Trends Consumer Insights (BigQuery / Tableau)
+Dataset: BigQuery Public Dataset — google_trends
+Project Highlights:
+- Analyzed trending search keywords across regions and time periods
+- Identified seasonal patterns and long‑term interest trends
+- Used BigQuery for large‑scale time‑series queries and Tableau for trend visualization
+Business Value:
+Enables businesses to understand market interest shifts, anticipate demand cycles, and support product planning and marketing strategy.
 
-## 4. Google Trends Consumer Insights
-Business questions:
-- What keywords are trending across regions and time periods
-- How do search trends reflect consumer interest
-- Can search behavior predict product demand
-BI deliverables:
-- Interactive map and time‑series visualizations
-- Trend analysis dashboard
-- Combined analysis with e‑commerce data
+4. Traffic Source & Advertising Performance Analysis (BigQuery / Power BI)
+Dataset: BigQuery Public Dataset — google_analytics_sample
+Project Highlights:
+- Compared conversion performance across traffic sources (Google, Facebook, Email)
+- Analyzed the relationship between click‑through rate (CTR) and order conversion rate
+- Calculated ROI for different advertising campaigns
+- Used BigQuery for ETL and KPI computation, and Power BI for marketing performance dashboards
+Business Value:
+Helps marketing teams optimize budget allocation, improve campaign effectiveness, and maximize advertising ROI.
 
 
 # Repository Structure
