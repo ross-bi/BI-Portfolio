@@ -91,6 +91,8 @@ Other Tools
 ```
 BI-Portfolio/
 │
+├── Certifications
+│
 ├── Superstore_Project/
 │   ├── data/
 │   ├── scripts/
