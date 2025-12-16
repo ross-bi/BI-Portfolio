@@ -110,7 +110,7 @@ BI-Portfolio/
 
 # Contact
 - 🏠 Hong Kong
-- 💼 LinkedIn: (Under construction)
+- 💼 LinkedIn: 
 - 📧 Email: Available upon request via LinkedIn
 
 
