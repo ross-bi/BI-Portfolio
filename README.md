@@ -84,12 +84,17 @@ BI-Portfolio/
 ```
 
 # Professional Certificates
+### Core BI & Data Analytics
 
 | Certificate              | Institution                        |
 |-------------------|--------------------------------|
 | Google Business Intelligence Professional Certificate | Google |
 | Google Data Analytics Professional Certificate | Google |
-| IBM Data Analyst Professional Certificate | IBM  |
+| IBM Data Analyst Professional Certificate
+<a href="[https://www.coursera.org/account/accomplishments/professional-certificates/YOUR_IBM_DA_ID](https://coursera.org/share/3cebba22602f234e5f467d1fadf31d7a)">
+  <img src="https://img.shields.io/badge/IBM_Data_Analyst-Professional_Certificate-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Analyst">
+</a>
+| IBM  |
 | IBM Generative AI for BI Analysts Specialization | IBM |
 | Microsoft Power BI Data Analyst Professional Certificate  | Microsoft |
 
