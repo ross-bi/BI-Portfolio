@@ -88,11 +88,11 @@ BI-Portfolio/
 
 | Certificate              | Institution                        |  Verification |
 |-------------------|--------------------------------|-------------|
-| Google Business Intelligence Professional Certificate | Google | <div align="center"><a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/P6RVCIH4QIRA"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
-| Google Data Analytics Professional Certificate | Google | <div align="center"><a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/RB0NWMXRN2MQ"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
-| IBM Data Analyst Professional Certificate| IBM  | <div align="center"><a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/2VW236K260MZ"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
-| IBM Generative AI for BI Analysts Specialization | IBM | <div align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/142IUDS1KXQV"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
-| Microsoft Power BI Data Analyst Professional Certificate  | Microsoft | <div align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JZMXX254FKRO"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+| Google Business Intelligence Professional Certificate | Google | <div align="center"><a href="https://coursera.org/verify/professional-cert/P6RVCIH4QIRA"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+| Google Data Analytics Professional Certificate | Google | <div align="center"><a href="https://coursera.org/verify/professional-cert/RB0NWMXRN2MQ"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+| IBM Data Analyst Professional Certificate| IBM  | <div align="center"><a href="https://coursera.org/verify/professional-cert/2VW236K260MZ"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+| IBM Generative AI for BI Analysts Specialization | IBM | <div align="center"><a href="https://coursera.org/verify/specialization/142IUDS1KXQV"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+| Microsoft Power BI Data Analyst Professional Certificate  | Microsoft | <div align="center"><a href="https://coursera.org/verify/professional-cert/JZMXX254FKRO"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
 
 
 <details>
@@ -101,26 +101,23 @@ BI-Portfolio/
 ### Business & Strategy
 | Certificate              | Institution                        |  Verification |
 |-------------------|--------------------------------|-------------|
-| Business Analytics Specialization | Wharton School, University of Pennsylvania  | <div align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/645M6SNKGD6Q"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
-| AI for Business Specialization  | University of Pennsylvania   | <div align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VD2YUSGHNWFK"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
-| Business Strategy Specialization   | University of Virginia | <div align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/K1JDTG148466"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+| Business Analytics Specialization | Wharton School, University of Pennsylvania  | <div align="center"><a href="https://coursera.org/verify/specialization/645M6SNKGD6Q"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+| AI for Business Specialization  | University of Pennsylvania   | <div align="center"><a href="https://coursera.org/verify/specialization/VD2YUSGHNWFK"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+| Business Strategy Specialization   | University of Virginia | <div align="center"><a href="https://coursera.org/verify/specialization/K1JDTG148466"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
 
 
 </details>
 
 # Contact
-- 🏠 Hong Kong
-- 💼 LinkedIn: <a href="https://linkedin.com/in/your-profile">📧 LinkedIn</a>  
-- 🧷 Notion:  <a href="https://your-notion-site.notion.site">📋 Notion Portfolio</a>
-- 📧 Email: Available upon request via LinkedIn
-## 📬 Connect With Me
+
 
 <div align="left">
   <a href="https://linkedin.com/in/ross-bi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect my LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://your-notion-portfolio.notion.site">
-    <img src="https://img.shields.io/badge/Notion-Portfolio-lightgrey?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+    <img src="https://img.shields.io/badge/Notion-Visit my Portfolio-blue?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   </a>
 </div>
 
