@@ -110,7 +110,8 @@ BI-Portfolio/
 
 # Contact
 - 🏠 Hong Kong
-- 💼 LinkedIn: 
+- 💼 LinkedIn:
+- 🧷 Notion:
 - 📧 Email: Available upon request via LinkedIn
 
 
