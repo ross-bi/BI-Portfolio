@@ -113,6 +113,16 @@ BI-Portfolio/
 - 💼 LinkedIn: <a href="https://linkedin.com/in/your-profile">📧 LinkedIn</a>  
 - 🧷 Notion:  <a href="https://your-notion-site.notion.site">📋 Notion Portfolio</a>
 - 📧 Email: Available upon request via LinkedIn
+## 📬 Connect With Me
+
+<div align="left">
+  <a href="https://linkedin.com/in/ross-bi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://your-notion-portfolio.notion.site">
+    <img src="https://img.shields.io/badge/Notion-Portfolio-lightgrey?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  </a>
+</div>
 
 
 # License
