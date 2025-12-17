@@ -113,7 +113,7 @@ BI-Portfolio/
 
 <div align="left">
   <a href="https://linkedin.com/in/ross-bi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect my LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect my Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://your-notion-portfolio.notion.site">
