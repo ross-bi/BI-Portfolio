@@ -110,17 +110,9 @@ BI-Portfolio/
 
 # Contact
 
-
-<div align="left">
-  <a href="https://linkedin.com/in/ross-bi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_my_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://your-notion-portfolio.notion.site">
-    <img src="https://img.shields.io/badge/Notion-Visit_my_Portfolio-blue?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-  </a>
-</div>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ross-bi)
+&nbsp;
+[![Notion](https://img.shields.io/badge/Notion-Portfolio-lightgrey?style=for-the-badge&logo=notion&logoColor=white)](https://your-notion-portfolio.notion.site)
 
 # License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
