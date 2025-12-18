@@ -43,7 +43,8 @@ Project Highlights:
 - Used PostgreSQL for data modeling and segmentation, and Power BI for interactive dashboards
 #### Business Value:
 Supports marketing and operations teams in optimizing ad targeting, improving customer retention, and increasing conversion rates.
-
+ <div align="left"> <a href=""> <img src="https://img.shields.io/badge/E‑Commerce_Customer_Behavior_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Project 02"> </a> </div> 
+ 
 ## 3. Google Trends Consumer Insights (BigQuery / Tableau)
 Dataset: BigQuery Public Dataset — google_trends
 Project Highlights:
@@ -52,6 +53,7 @@ Project Highlights:
 - Used BigQuery for large‑scale time‑series queries and Tableau for trend visualization
 #### Business Value:
 Enables businesses to understand market interest shifts, anticipate demand cycles, and support product planning and marketing strategy.
+ <div align="left"> <a href=""> <img src="https://img.shields.io/badge/Google_Trends_Consumer_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Project 02"> </a> </div> 
 
 ## 4. Traffic Source & Advertising Performance Analysis (BigQuery / Power BI)
 Dataset: BigQuery Public Dataset — google_analytics_sample
@@ -62,21 +64,20 @@ Project Highlights:
 - Used BigQuery for ETL and KPI computation, and Power BI for marketing performance dashboards
 #### Business Value:
 Helps marketing teams optimize budget allocation, improve campaign effectiveness, and maximize advertising ROI.
+ <div align="left"> <a href=""> <img src="https://img.shields.io/badge/Google_Traffic_Source_&_Advertising_Performance_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Project 02"> </a> </div> 
 
 
 # Repository Structure
 ```
 BI-Portfolio/
 │
-├── Superstore_Project/
-│   ├── data/
-│   ├── scripts/
-│   ├── sql/
-│   ├── tableau/
-│   └── README.md
+├── Superstore_Project/ # 1. Sales & Profit Analysis (MySQL / Tableau)
 │
-├── Project_2/
-│   └── ...
+├── Project_2/ # 2. Customer Behavior Analysis (PostgreSQL / Power BI)
+│
+├── Project_3/ # 3. Google Trends Consumer Insights (BigQuery / Tableau)
+│
+├── Project_4/ # 4. Traffic Source & Advertising Performance Analysis (BigQuery / Power BI)
 │
 ├── LICENSE
 │
