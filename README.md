@@ -71,14 +71,12 @@ Helps marketing teams optimize budget allocation, improve campaign effectiveness
 ```
 BI-Portfolio/
 │
-├── 01_Superstore_Project/ # 1.Sales & Profit Analysis
-│
-├── 02_Project_2/ # 2.Customer Behavior Analysis
-│
-├── 03_Project_3/ # 3.Google Trends Consumer Insights
-│
-├── 04_Project_4/ # 4.Traffic Source & Advertising Performance Analysis
-│
+├── cases/
+│   ├── 01_Superstore_Project/ # 1.Sales & Profit Analysis
+│   ├── 02_Project_2/ # 2.Customer Behavior Analysis
+│   ├── 03_Project_3/ # 3.Google Trends Consumer Insights
+│   └── 04_Project_4/ # 4.Traffic Source & Advertising Performance Analysis
+│ 
 ├── LICENSE
 │
 └── README.md 
