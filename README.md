@@ -82,7 +82,7 @@ BI-Portfolio/
 └── README.md 
 ```
 
-# Professional Certificates
+# Professional Certificates via Coursera
 ### Core BI & Data Analytics
 
 | Certificate              | Institution                        |  Verification |
