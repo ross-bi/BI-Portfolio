@@ -71,13 +71,13 @@ Helps marketing teams optimize budget allocation, improve campaign effectiveness
 ```
 BI-Portfolio/
 │
-├── Superstore_Project/ # 1. Sales & Profit Analysis (MySQL / Tableau)
+├── Superstore_Project/ # 1. Sales & Profit Analysis
 │
-├── Project_2/ # 2. Customer Behavior Analysis (PostgreSQL / Power BI)
+├── Project_2/ # 2. Customer Behavior Analysis
 │
-├── Project_3/ # 3. Google Trends Consumer Insights (BigQuery / Tableau)
+├── Project_3/ # 3. Google Trends Consumer Insights
 │
-├── Project_4/ # 4. Traffic Source & Advertising Performance Analysis (BigQuery / Power BI)
+├── Project_4/ # 4. Traffic Source & Advertising Performance Analysis
 │
 ├── LICENSE
 │
