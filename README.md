@@ -32,7 +32,7 @@ Project Highlights:
 - Performed data cleaning, aggregation, and KPI calculations in MySQL, followed by visualization in Tableau
 #### Business Value:
 Helps organizations identify high‑profit products, low‑performing categories, and evaluate promotion effectiveness to improve inventory turnover and procurement strategy.
- <div align="left"> <a href="https://github.com/ross-bi/BI-Portfolio/tree/main/Superstore_sales_analysis"> <img src="https://img.shields.io/badge/Superstore_Sales_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Superstore Sales Analysis"> </a> </div> 
+ <div align="left"> <a href="https://github.com/ross-bi/BI-Portfolio/tree/main/01_Superstore_sales_analysis"> <img src="https://img.shields.io/badge/Superstore_Sales_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Superstore Sales Analysis"> </a> </div> 
 
 ## 2. Customer Behavior Analysis (PostgreSQL + Power BI)
 Dataset: Kaggle — E‑Commerce Data
@@ -71,13 +71,13 @@ Helps marketing teams optimize budget allocation, improve campaign effectiveness
 ```
 BI-Portfolio/
 │
-├── Superstore_Project/ # 1.Sales & Profit Analysis
+├── 01_Superstore_Project/ # 1.Sales & Profit Analysis
 │
-├── Project_2/ # 2.Customer Behavior Analysis
+├── 02_Project_2/ # 2.Customer Behavior Analysis
 │
-├── Project_3/ # 3.Google Trends Consumer Insights
+├── 03_Project_3/ # 3.Google Trends Consumer Insights
 │
-├── Project_4/ # 4.Traffic Source & Advertising Performance Analysis
+├── 04_Project_4/ # 4.Traffic Source & Advertising Performance Analysis
 │
 ├── LICENSE
 │
