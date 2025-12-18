@@ -23,7 +23,7 @@ Other Tools
 # Portfolio Projects
 This portfolio showcases four business intelligence and analytics projects built using real-world public datasets. Each project demonstrates end‑to‑end analytical skills, including data extraction, cleaning, modeling, and visualization using MySQL, PostgreSQL, BigQuery, Power BI, and Tableau.
 
-## 1. Sales & Profit Analysis (MySQL / Tableau)
+## 1. Sales & Profit Analysis (MySQL + Tableau)
 Dataset: Kaggle — Superstore Sales
 Project Highlights:
 - Analyzed sales performance and profit margins across product categories
@@ -34,7 +34,7 @@ Project Highlights:
 Helps organizations identify high‑profit products, low‑performing categories, and evaluate promotion effectiveness to improve inventory turnover and procurement strategy.
  <div align="left"> <a href="https://github.com/ross-bi/BI-Portfolio/tree/main/Superstore_sales_analysis"> <img src="https://img.shields.io/badge/Superstore_Sales_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Superstore Sales Analysis"> </a> </div> 
 
-## 2. Customer Behavior Analysis (PostgreSQL / Power BI)
+## 2. Customer Behavior Analysis (PostgreSQL + Power BI)
 Dataset: Kaggle — E‑Commerce Data
 Project Highlights:
 - Analyzed customer conversion rates across regions, devices, and traffic sources
@@ -45,7 +45,7 @@ Project Highlights:
 Supports marketing and operations teams in optimizing ad targeting, improving customer retention, and increasing conversion rates.
  <div align="left"> <a href=""> <img src="https://img.shields.io/badge/E‑Commerce_Customer_Behavior_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Project 02"> </a> </div> 
  
-## 3. Google Trends Consumer Insights (BigQuery / Tableau)
+## 3. Google Trends Consumer Insights (BigQuery + Tableau)
 Dataset: BigQuery Public Dataset — google_trends
 Project Highlights:
 - Analyzed trending search keywords across regions and time periods
@@ -55,7 +55,7 @@ Project Highlights:
 Enables businesses to understand market interest shifts, anticipate demand cycles, and support product planning and marketing strategy.
  <div align="left"> <a href=""> <img src="https://img.shields.io/badge/Google_Trends_Consumer_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Project 02"> </a> </div> 
 
-## 4. Traffic Source & Advertising Performance Analysis (BigQuery / Power BI)
+## 4. Traffic Source & Advertising Performance Analysis (BigQuery + Power BI)
 Dataset: BigQuery Public Dataset — google_analytics_sample
 Project Highlights:
 - Compared conversion performance across traffic sources (Google, Facebook, Email)
