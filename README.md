@@ -74,7 +74,7 @@ BI-Portfolio/
 ├── cases/
 │   ├── 01_Superstore_Project/ # 1.Sales & Profit Analysis
 │   ├── 02_Customer_Behavior/ # 2.Customer Behavior Analysis
-│   ├── 03_Google_Trends/ # 3.Google Trends Consumer Insights
+│   ├── 03_Consumer_Insights/ # 3.Google Trends Consumer Insights
 │   └── 04_Traffic_Advertising/ # 4.Traffic Source & Advertising Performance Analysis
 │ 
 ├── LICENSE
