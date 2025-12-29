@@ -73,9 +73,9 @@ BI-Portfolio/
 │
 ├── cases/
 │   ├── 01_Superstore_Project/ # 1.Sales & Profit Analysis
-│   ├── 02_Project_2/ # 2.Customer Behavior Analysis
-│   ├── 03_Project_3/ # 3.Google Trends Consumer Insights
-│   └── 04_Project_4/ # 4.Traffic Source & Advertising Performance Analysis
+│   ├── 02_Customer_Behavior/ # 2.Customer Behavior Analysis
+│   ├── 03_Google_Trends/ # 3.Google Trends Consumer Insights
+│   └── 04_Traffic_Advertising/ # 4.Traffic Source & Advertising Performance Analysis
 │ 
 ├── LICENSE
 │
@@ -111,7 +111,7 @@ BI-Portfolio/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chung-man-tang-2a7616177)
 &nbsp;
-[![Notion](https://img.shields.io/badge/Notion-Portfolio-lightgrey?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Chung-Man-Ross-Tang-2cc75a3c84e1807d8e6ec0bad9e0fa84?source=copy_link)
+[![Notion](https://img.shields.io/badge/Notion-Portfolio-blue?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Chung-Man-Ross-Tang-2cc75a3c84e1807d8e6ec0bad9e0fa84?source=copy_link)
 
 # License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
