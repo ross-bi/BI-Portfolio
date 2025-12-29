@@ -1,6 +1,6 @@
-[![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README.md)
+[![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-blue)](README.md)
 &nbsp;&nbsp;
-[![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
+[![简体中文](https://img.shields.io/badge/简体中文-点击查看-blue)](README.md)
 
 #  Business Intelligence Portfolio — Ross Tang
 Welcome to my Business Intelligence (BI) portfolio. This repository showcases my end‑to‑end analytics capabilities across SQL, Python, Power BI, Tableau, data modeling, and business insights. It reflects my transition from operations and coordination work into a BI‑focused career through continuous learning, hands‑on projects, and real business applications.
