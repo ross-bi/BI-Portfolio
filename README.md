@@ -98,8 +98,7 @@ BI-Portfolio/
 | Microsoft Power BI Data Analyst Professional Certificate  | Microsoft | <div align="center"><a href="https://coursera.org/verify/professional-cert/JZMXX254FKRO"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
 
 
-<details>
-<summary>View All Certifications (8 total) </summary>
+
 
 ### Business & Strategy
 | Certificate              | Institution                        |  Verification |
@@ -109,7 +108,6 @@ BI-Portfolio/
 | Business Strategy Specialization   | University of Virginia | <div align="center"><a href="https://coursera.org/verify/specialization/K1JDTG148466"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
 
 
-</details>
 
 # Contact
 
