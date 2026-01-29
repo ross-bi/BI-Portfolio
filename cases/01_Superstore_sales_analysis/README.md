@@ -12,10 +12,10 @@ The project includes:
 - Business insights & recommendations
 
 ##  Dataset
-Source: Kaggle – Superstore Sales Dataset by Laiba Anwer
-# Download latest version
-path = kagglehub.dataset_download("laibaanwer/superstore-sales-dataset")
-Rows: ~10,000+
+Source: Kaggle – Superstore Sales Dataset by Laiba Anwer  
+Download latest version  
+path = kagglehub.dataset_download("laibaanwer/superstore-sales-dataset")  
+Rows: ~10,000+  
 Key fields:
 - Order Date, Ship Date
 - Customer Name, Segment, Region
