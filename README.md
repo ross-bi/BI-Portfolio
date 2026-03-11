@@ -27,13 +27,13 @@ Other Tools
 # Portfolio Projects
 This portfolio showcases four business intelligence and analytics projects built using real-world public datasets. Each project demonstrates end‑to‑end analytical skills, including data extraction, cleaning, modeling, and visualization using MySQL, PostgreSQL, BigQuery, Power BI, and Tableau.
 
-## 1. Sales & Profit Analysis (MySQL + Tableau)
+## 1. Sales & Profit Analysis (MySQL + PowerBI)
 Dataset: Kaggle — Superstore Sales
 Project Highlights:
 - Analyzed sales performance and profit margins across product categories
 - Evaluated the impact of promotional discounts on revenue and profitability
 - Built an interactive product performance dashboard to support purchasing and inventory decisions
-- Performed data cleaning, aggregation, and KPI calculations in MySQL, followed by visualization in Tableau
+- Performed data cleaning, aggregation, and KPI calculations in MySQL, followed by visualization in PowerBI
 #### Business Value:
 Helps organizations identify high‑profit products, low‑performing categories, and evaluate promotion effectiveness to improve inventory turnover and procurement strategy.
  <div align="left"> <a href="https://github.com/ross-bi/BI-Portfolio/tree/main/cases/01_Superstore_sales_analysis"> <img src="https://img.shields.io/badge/Superstore_Sales_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Superstore Sales Analysis"> </a> </div> 
