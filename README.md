@@ -36,7 +36,7 @@ Project Highlights:
 - Performed data cleaning, aggregation, and KPI calculations in MySQL, followed by visualization in PowerBI
 #### Business Value:
 Helps organizations identify high‑profit products, low‑performing categories, and evaluate promotion effectiveness to improve inventory turnover and procurement strategy.
- <div align="left"> <a href="https://github.com/ross-bi/BI-Portfolio/tree/main/cases/01_Superstore_sales_analysis"> <img src="https://img.shields.io/badge/Superstore_Sales_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Superstore Sales Analysis"> </a> </div> 
+ <div align="left"> <a href="https://github.com/ross-bi/BI-Portfolio/tree/main/cases/01_Superstore_Sales_Analysis"> <img src="https://img.shields.io/badge/Superstore_Sales_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Superstore Sales Analysis"> </a> </div> 
 
 ## 2. Customer Behavior Analysis (PostgreSQL + Power BI)
 Dataset: Kaggle — E‑Commerce Data
