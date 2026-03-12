@@ -1,124 +1,112 @@
-[![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-blue?style=for-the-badge)](README.md)
+[![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-blue?style=for-the-badge)](README.zh-TW.md)
 &nbsp;&nbsp;
-[![简体中文](https://img.shields.io/badge/简体中文-点击查看-blue?style=for-the-badge)](README.md)
+[![简体中文](https://img.shields.io/badge/简体中文-点击查看-blue?style=for-the-badge)](README.zh-CN.md)
 
-#  Business Intelligence Portfolio — Ross Tang
-Welcome to my Business Intelligence (BI) portfolio. This repository showcases my end‑to‑end analytics capabilities across SQL, Python, Power BI, Tableau, data modeling, and business insights. It reflects my transition from operations and coordination work into a BI‑focused career through continuous learning, hands‑on projects, and real business applications.
+# Business Intelligence Portfolio — Ross Tang
 
-# About Me
-Business Intelligence & Operations professional based in Hong Kong, focusing on data analytics, dashboard development, and workflow optimization. I currently manage warehouse systems, export/import documentation, and internal BI tools while building analytics solutions across Excel and Power BI.
+Welcome to my BI portfolio. This repository documents my self-directed transition into data analytics and business intelligence — built entirely through hands-on project work, online study, and practical application at my current employer.
 
-  
-# Skills & Tools
-Programming & Querying
+---
+
+## About Me
+
+I am a **Business Intelligence & Operations Coordinator** based in Hong Kong, currently working at a small wholesale trading company (since May 2021). Over the past few years I have independently built and maintained the company's warehouse management system, import/export documentation workflows, and NAS-based file infrastructure using Excel.
+
+From **October 2025**, I formally took on a BI analyst role alongside my operations duties — connecting company sales files on our NAS to Power BI for interactive visualization and decision support.
+
+With no formal university degree and having started from a purely administrative background, I have invested the past year in structured self-study: completing **8 professional certificates** across data analytics, BI, and business strategy. These projects represent the practical application of everything I have learned.
+
+---
+
+## Skills & Tools
+
+**Programming & Querying**
 - SQL (MySQL, PostgreSQL, BigQuery)
-- Python (Pandas, Plotly)
-BI & Visualization
-- Power BI
+- Python (pandas, openpyxl)
+
+**BI & Visualization**
+- Power BI (DAX, data modeling, interactive dashboards)
 - Tableau
-Data Modeling & ETL
-- Star Schema
-- Data Cleaning
-- ETL Pipelines
-Other Tools
-- Excel (Pivot Tables)
-- NAS + UPS System setup and maintenance
 
-# Portfolio Projects
-This portfolio showcases four business intelligence and analytics projects built using real-world public datasets. Each project demonstrates end‑to‑end analytical skills, including data extraction, cleaning, modeling, and visualization using MySQL, PostgreSQL, BigQuery, Power BI, and Tableau.
+**Data Engineering & Modeling**
+- dbt (data build tool) — staging/marts layered modeling
+- Star Schema / Snowflake Schema
+- ETL pipeline design
 
-## 1. Sales & Profit Analysis (MySQL + PowerBI)
-Dataset: Kaggle — Superstore Sales
-Project Highlights:
-- Analyzed sales performance and profit margins across product categories
-- Evaluated the impact of promotional discounts on revenue and profitability
-- Built an interactive product performance dashboard to support purchasing and inventory decisions
-- Performed data cleaning, aggregation, and KPI calculations in MySQL, followed by visualization in PowerBI
-#### Business Value:
-Helps organizations identify high‑profit products, low‑performing categories, and evaluate promotion effectiveness to improve inventory turnover and procurement strategy.
- <div align="left"> <a href="https://github.com/ross-bi/BI-Portfolio/tree/main/cases/01_Superstore_Sales_Analysis"> <img src="https://img.shields.io/badge/Superstore_Sales_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Superstore Sales Analysis"> </a> </div> 
+**Other Tools**
+- Excel (Pivot Tables, advanced formulas)
+- Git / GitHub
+- NAS & UPS system setup and maintenance
 
-## 2. Customer Behavior Analysis (PostgreSQL + Power BI)
-Dataset: Kaggle — E‑Commerce Data
-Project Highlights:
-- Analyzed customer conversion rates across regions, devices, and traffic sources
-- Identified high‑value customer segments (e.g., high AOV, high repeat‑purchase rate)
-- Visualized the customer journey from ad click → cart → completed purchase
-- Used PostgreSQL for data modeling and segmentation, and Power BI for interactive dashboards
-#### Business Value:
-Supports marketing and operations teams in optimizing ad targeting, improving customer retention, and increasing conversion rates.
- <div align="left"> <a href=""> <img src="https://img.shields.io/badge/E‑Commerce_Customer_Behavior_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Project 02"> </a> </div> 
- 
-## 3. Google Trends Consumer Insights (BigQuery + Tableau)
-Dataset: BigQuery Public Dataset — google_trends
-Project Highlights:
-- Analyzed trending search keywords across regions and time periods
-- Identified seasonal patterns and long‑term interest trends
-- Used BigQuery for large‑scale time‑series queries and Tableau for trend visualization
-#### Business Value:
-Enables businesses to understand market interest shifts, anticipate demand cycles, and support product planning and marketing strategy.
- <div align="left"> <a href=""> <img src="https://img.shields.io/badge/Google_Trends_Consumer_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Project 02"> </a> </div> 
+---
 
-## 4. Traffic Source & Advertising Performance Analysis (BigQuery + Power BI)
-Dataset: BigQuery Public Dataset — google_analytics_sample
-Project Highlights:
-- Compared conversion performance across traffic sources (Google, Facebook, Email)
-- Analyzed the relationship between click‑through rate (CTR) and order conversion rate
-- Calculated ROI for different advertising campaigns
-- Used BigQuery for ETL and KPI computation, and Power BI for marketing performance dashboards
-#### Business Value:
-Helps marketing teams optimize budget allocation, improve campaign effectiveness, and maximize advertising ROI.
- <div align="left"> <a href=""> <img src="https://img.shields.io/badge/Google_Traffic_Source_&_Advertising_Performance_Analysis-View_Project-blue?style=for-the-badge&logo=github" alt="Project 02"> </a> </div> 
+## Portfolio Projects
 
+### 1. Sales & Profit Analysis
+**MySQL · Python · Power BI**
 
-# Repository Structure
-```
-BI-Portfolio/
-│
-├── cases/
-│   ├── 01_Superstore_Sales_Analysis/ # 1.Sales & Profit Analysis
-│   ├── 02_Ecommerce_Customer_Journey/ # 2.Customer Behavior Analysis
-│   ├── 03_Consumer_Insights/ # 3.Google Trends Consumer Insights
-│   └── 04_Traffic_Advertising/ # 4.Traffic Source & Advertising Performance Analysis
-│ 
-├── LICENSE
-│
-└── README.md 
-```
+Analyzed the Kaggle Superstore Sales Dataset (51,000+ rows, 2011–2014, 7 global markets) to uncover product profitability and discount strategy impact.
 
-# Professional Certificates via Coursera
-### Core BI & Data Analytics
+- Built a full Snowflake schema data warehouse in MySQL (staging → dimensions → fact → views)
+- Performed bidirectional reconciliation to validate data integrity across all pipeline layers
+- Delivered a 3-page interactive Power BI dashboard covering executive KPIs, product performance, and promotion impact
 
-| Certificate              | Institution                        |  Verification |
-|-------------------|--------------------------------|-------------|
-| Google Business Intelligence Professional Certificate | Google | <div align="center"><a href="https://coursera.org/verify/professional-cert/P6RVCIH4QIRA"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
-| Google Data Analytics Professional Certificate | Google | <div align="center"><a href="https://coursera.org/verify/professional-cert/RB0NWMXRN2MQ"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
-| IBM Data Analyst Professional Certificate| IBM  | <div align="center"><a href="https://coursera.org/verify/professional-cert/2VW236K260MZ"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
-| IBM Generative AI for BI Analysts Specialization | IBM | <div align="center"><a href="https://coursera.org/verify/specialization/142IUDS1KXQV"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
-| Microsoft Power BI Data Analyst Professional Certificate  | Microsoft | <div align="center"><a href="https://coursera.org/verify/professional-cert/JZMXX254FKRO"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
+<div align="left">
+  <a href="https://github.com/ross-bi/01_Superstore_Sales_Analysis">
+    <img src="https://img.shields.io/badge/View_Project-01_Superstore_Sales_Analysis-blue?style=for-the-badge&logo=github" alt="Superstore Sales Analysis">
+  </a>
+</div>
 
+---
 
+### 2. E-Commerce Customer Journey Analytics
+**BigQuery · PostgreSQL · dbt · Power BI**
 
+End-to-end customer journey analysis using the GA4 Obfuscated Sample E-Commerce dataset (Google BigQuery public data, Nov 2020, 30 days).
+
+- Extracted and loaded raw GA4 event data from BigQuery into PostgreSQL
+- Built a dbt transformation pipeline (staging → marts) with incremental models, surrogate keys, and data quality tests
+- Modelled a funnel fact table (`fact_sessions`) and customer lifetime value dimension (`dim_customers`)
+- Analysed conversion rates across traffic sources, devices, and geographies
+
+<div align="left">
+  <a href="https://github.com/ross-bi/02_Ecommerce_Customer_Journey">
+    <img src="https://img.shields.io/badge/View_Project-02_Ecommerce_Customer_Journey-blue?style=for-the-badge&logo=github" alt="Ecommerce Customer Journey">
+  </a>
+</div>
+
+---
+
+## Professional Certificates (Coursera · 2025)
+
+### Data Analytics & BI
+
+| Certificate | Institution | Verification |
+|---|---|---|
+| Google Business Intelligence Professional Certificate | Google | <a href="https://coursera.org/verify/professional-cert/P6RVCIH4QIRA"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=google&logoColor=white"></a> |
+| Google Data Analytics Professional Certificate | Google | <a href="https://coursera.org/verify/professional-cert/RB0NWMXRN2MQ"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=google&logoColor=white"></a> |
+| IBM Data Analyst Professional Certificate | IBM | <a href="https://coursera.org/verify/professional-cert/2VW236K260MZ"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white"></a> |
+| IBM Generative AI for BI Analysts Specialization | IBM | <a href="https://coursera.org/verify/specialization/142IUDS1KXQV"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white"></a> |
+| Microsoft Power BI Data Analyst Professional Certificate | Microsoft | <a href="https://coursera.org/verify/professional-cert/JZMXX254FKRO"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=microsoft&logoColor=white"></a> |
 
 ### Business & Strategy
-| Certificate              | Institution                        |  Verification |
-|-------------------|--------------------------------|-------------|
-| Business Analytics Specialization | Wharton School, University of Pennsylvania  | <div align="center"><a href="https://coursera.org/verify/specialization/645M6SNKGD6Q"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
-| AI for Business Specialization  | University of Pennsylvania   | <div align="center"><a href="https://coursera.org/verify/specialization/VD2YUSGHNWFK"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
-| Business Strategy Specialization   | University of Virginia | <div align="center"><a href="https://coursera.org/verify/specialization/K1JDTG148466"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="Verify"></a> |
 
+| Certificate | Institution | Verification |
+|---|---|---|
+| Business Analytics Specialization | Wharton School, University of Pennsylvania | <a href="https://coursera.org/verify/specialization/645M6SNKGD6Q"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white"></a> |
+| AI for Business Specialization | University of Pennsylvania | <a href="https://coursera.org/verify/specialization/VD2YUSGHNWFK"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white"></a> |
+| Business Strategy Specialization | University of Virginia | <a href="https://coursera.org/verify/specialization/K1JDTG148466"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white"></a> |
 
+---
 
-# Contact
+## Contact
 
-[![Notion](https://img.shields.io/badge/Notion-Portfolio-blue?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Chung-Man-Ross-Tang-2cc75a3c84e1807d8e6ec0bad9e0fa84?source=copy_link)  
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chung-man-tang-2a7616177)
+[![Notion](https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Chung-Man-Ross-Tang-2cc75a3c84e1807d8e6ec0bad9e0fa84?source=copy_link)
 &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chung-man-tang-2a7616177)
 
-# License
+---
+
+## License
+
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-
-
