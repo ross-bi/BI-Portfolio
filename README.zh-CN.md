@@ -10,7 +10,7 @@
 
 ## 关于我
 
-我是一名**商业智慧暨运营协调员**，现居香港，自 2021 年 5 月起任职于一家小型批发贸易公司（约 5 名员工）。多年来，我独立使用 Excel 建立及维护公司的仓库管理系统、进出口文件流程，以及 NAS 网络存储服务器基础架构。
+我是一名**商业智慧暨运营协调员**，现居香港，自 2021 年 5 月起任职于一家小型批发贸易公司。多年来，我独立使用 Excel 建立及维护公司的仓库管理系统、进出口文件流程，以及 NAS 网络存储服务器基础架构。
 
 **2025 年 10 月**起，我在原有运营职责之上正式兼任 BI 分析工作，将公司存放于 NAS 的销售 Excel 文件接入 Power BI，打造交互式可视化仪表板，为管理决策提供数据支撑。
 
@@ -83,11 +83,11 @@
 
 | 证书名称 | 发证机构 | 验证链接 |
 |---|---|---|
-| Google Business Intelligence Professional Certificate | Google | <a href="https://coursera.org/verify/professional-cert/P6RVCIH4QIRA"><img src="https://img.shields.io/badge/验证-blue?style=for-the-badge&logo=google&logoColor=white"></a> |
-| Google Data Analytics Professional Certificate | Google | <a href="https://coursera.org/verify/professional-cert/RB0NWMXRN2MQ"><img src="https://img.shields.io/badge/验证-blue?style=for-the-badge&logo=google&logoColor=white"></a> |
-| IBM Data Analyst Professional Certificate | IBM | <a href="https://coursera.org/verify/professional-cert/2VW236K260MZ"><img src="https://img.shields.io/badge/验证-blue?style=for-the-badge&logo=ibm&logoColor=white"></a> |
-| IBM Generative AI for BI Analysts Specialization | IBM | <a href="https://coursera.org/verify/specialization/142IUDS1KXQV"><img src="https://img.shields.io/badge/验证-blue?style=for-the-badge&logo=ibm&logoColor=white"></a> |
-| Microsoft Power BI Data Analyst Professional Certificate | Microsoft | <a href="https://coursera.org/verify/professional-cert/JZMXX254FKRO"><img src="https://img.shields.io/badge/验证-blue?style=for-the-badge&logo=microsoft&logoColor=white"></a> |
+| Google Business Intelligence Professional Certificate | Google | <a href="https://coursera.org/verify/professional-cert/P6RVCIH4QIRA"><img src="https://img.shields.io/badge/验证-blue?style=for-the-badge&logoColor=white"></a> |
+| Google Data Analytics Professional Certificate | Google | <a href="https://coursera.org/verify/professional-cert/RB0NWMXRN2MQ"><img src="https://img.shields.io/badge/验证-blue?style=for-the-badge&logoColor=white"></a> |
+| IBM Data Analyst Professional Certificate | IBM | <a href="https://coursera.org/verify/professional-cert/2VW236K260MZ"><img src="https://img.shields.io/badge/验证-blue?style=for-the-badge&logoColor=white"></a> |
+| IBM Generative AI for BI Analysts Specialization | IBM | <a href="https://coursera.org/verify/specialization/142IUDS1KXQV"><img src="https://img.shields.io/badge/验证-blue?style=for-the-badge&logoColor=white"></a> |
+| Microsoft Power BI Data Analyst Professional Certificate | Microsoft | <a href="https://coursera.org/verify/professional-cert/JZMXX254FKRO"><img src="https://img.shields.io/badge/验证-blue?style=for-the-badge&logoColor=white"></a> |
 
 ### 商业与战略
 
