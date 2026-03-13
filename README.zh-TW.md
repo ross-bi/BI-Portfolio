@@ -51,7 +51,7 @@
 - 交付 3 頁互動式 Power BI 儀表板，涵蓋執行摘要 KPI、產品表現及促銷影響分析
 
 <div align="left">
-  <a href="https://github.com/ross-bi/01_Superstore_Sales_Analysis">
+  <a href="https://github.com/ross-bi/01_Superstore_Sales_Analysis/blob/master/README.zh-TW.md">
     <img src="https://img.shields.io/badge/查看專案-01_Superstore_Sales_Analysis-blue?style=for-the-badge&logo=github" alt="Superstore Sales Analysis">
   </a>
 </div>
@@ -69,7 +69,7 @@
 - 分析各流量來源、裝置及地區的轉換率表現
 
 <div align="left">
-  <a href="https://github.com/ross-bi/02_Ecommerce_Customer_Journey">
+  <a href="https://github.com/ross-bi/02_Ecommerce_Customer_Journey/blob/main/README.zh-CN.md">
     <img src="https://img.shields.io/badge/查看專案-02_Ecommerce_Customer_Journey-blue?style=for-the-badge&logo=github" alt="Ecommerce Customer Journey">
   </a>
 </div>
