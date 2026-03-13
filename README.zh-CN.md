@@ -26,7 +26,6 @@
 
 **BI 与可视化**
 - Power BI（DAX、数据建模、交互式仪表板）
-- Tableau
 
 **数据工程与建模**
 - dbt（data build tool）— 分层建模（staging / marts）
