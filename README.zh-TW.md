@@ -69,7 +69,7 @@
 - 分析各流量來源、裝置及地區的轉換率表現
 
 <div align="left">
-  <a href="https://github.com/ross-bi/02_Ecommerce_Customer_Journey/blob/main/README.zh-CN.md">
+  <a href="https://github.com/ross-bi/02_Ecommerce_Customer_Journey/blob/main/README.zh-TW.md">
     <img src="https://img.shields.io/badge/查看專案-02_Ecommerce_Customer_Journey-blue?style=for-the-badge&logo=github" alt="Ecommerce Customer Journey">
   </a>
 </div>
