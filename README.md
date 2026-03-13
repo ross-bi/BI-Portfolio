@@ -26,7 +26,6 @@ With no formal university degree and having started from a purely administrative
 
 **BI & Visualization**
 - Power BI (DAX, data modeling, interactive dashboards)
-- Tableau
 
 **Data Engineering & Modeling**
 - dbt (data build tool) — staging/marts layered modeling
