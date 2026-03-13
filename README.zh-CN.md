@@ -51,7 +51,7 @@
 - 交付 3 页交互式 Power BI 仪表板，涵盖执行摘要 KPI、产品表现及促销影响分析
 
 <div align="left">
-  <a href="https://github.com/ross-bi/01_Superstore_Sales_Analysis">
+  <a href="https://github.com/ross-bi/01_Superstore_Sales_Analysis/blob/master/README.zh-CN.md">
     <img src="https://img.shields.io/badge/查看项目-01_Superstore_Sales_Analysis-blue?style=for-the-badge&logo=github" alt="Superstore Sales Analysis">
   </a>
 </div>
@@ -69,7 +69,7 @@
 - 分析各流量来源、设备及地区的转化率表现
 
 <div align="left">
-  <a href="https://github.com/ross-bi/02_Ecommerce_Customer_Journey">
+  <a href="https://github.com/ross-bi/02_Ecommerce_Customer_Journey/blob/main/README.zh-CN.md">
     <img src="https://img.shields.io/badge/查看项目-02_Ecommerce_Customer_Journey-blue?style=for-the-badge&logo=github" alt="Ecommerce Customer Journey">
   </a>
 </div>
