@@ -76,7 +76,7 @@ End-to-end customer journey analysis using the GA4 Obfuscated Sample E-Commerce 
 
 ---
 
-## Professional Certificates (Coursera · 2025)
+## Professional Certificates (via Coursera)
 
 ### Data Analytics & BI
 
