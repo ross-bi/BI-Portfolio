@@ -10,11 +10,11 @@ Welcome to my BI portfolio. This repository documents my self-directed transitio
 
 ## About Me
 
-I am a **Business Intelligence & Operations Coordinator** based in Hong Kong, currently working at a small wholesale trading company (since May 2021). Over the past few years I have independently built and maintained the company's warehouse management system, import/export documentation workflows, and NAS-based file infrastructure using Excel.
+BI & Operations Coordinator transitioning into Operations / Logistics Analyst roles.
 
-From **October 2025**, I formally took on a BI analyst role alongside my operations duties — connecting company sales files on our NAS to Power BI for interactive visualization and decision support.
+I build portfolio projects with SQL, PostgreSQL, Power BI, dbt, and BigQuery to analyze sales, customer journeys, operations, and inventory performance.
 
-With no formal university degree and having started from a purely administrative background, I have invested the past year in structured self-study: completing **8 professional certificates** across data analytics, BI, and business strategy. These projects represent the practical application of everything I have learned.
+With hands-on experience in shipping, import/export documentation, warehouse tracking, sales reporting, and business process support, I focus on turning operational data into clear business insights and practical dashboards.
 
 ---
 
