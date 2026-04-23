@@ -75,6 +75,44 @@ End-to-end customer journey analysis using the GA4 Obfuscated Sample E-Commerce 
 </div>
 
 ---
+### 3. Traffic Sources & Ad ROI Analysis
+**Python · Google BigQuery · SQL · Power BI**
+
+Analysed advertising effectiveness and return on investment (ROI) across five traffic channels — Google Ads, Facebook Ads, Email, Organic, and Direct — using simulated full-year 2024 data.
+
+- Generated reproducible simulated data using Python (pandas, NumPy, Faker) with `seed=42`
+- Executed a full ETL cleaning pipeline in BigQuery (NULL checks, deduplication, field standardisation, derived fields)
+- Built a star schema data model (`campaigns` → `ad_impressions` / `sessions` / `conversions`) with 5 sets of analytical SQL Views
+- Delivered a 3-page interactive Power BI dashboard covering channel performance, CTR vs CVR analysis, and campaign ROI ranking
+- Key finding: Email Abandoned Cart achieves ROAS 45.12x at CPA $2.27; Google Display Remarketing is the sole negative-ROI campaign (ROAS 0.70x, -30%)
+
+<div align="left">
+  <a href="https://github.com/ross-bi/03_Traffic_Sources_Ad_ROI_Analysis">
+    <img src="https://img.shields.io/badge/View_Project-03_Traffic_Sources_Ad_ROI_Analysis-blue?style=for-the-badge&logo=github" alt="Traffic Sources Ad ROI Analysis">
+  </a>
+</div>
+
+---
+
+### 4. Inventory Performance Analysis
+**PostgreSQL · Power BI · Python · SQL**
+
+Analysed full-year 2016 inventory performance of a multi-store liquor retailer using the PwC × Kaggle Inventory Analysis Case Study dataset (~12.8 million sales transactions, 80 stores).
+
+- Built a Python bulk loader (`psycopg2` + `COPY`) to handle the 12.8M-row sales file that exceeds standard tool limits
+- Executed a three-layer ELT pipeline (raw → staging → marts) with defensive casting and 7-section data quality validation
+- Designed a star schema with `dim_product`, `dim_store`, `dim_vendor`, `dim_date`, `fact_sales`, and `fact_inventory_snapshot`
+- Implemented static ABC Classification in PostgreSQL using window functions to avoid Power BI Import Mode computation timeouts
+- Calculated 5 inventory KPIs: Inventory Turnover (4.24x), DSI (86 days), Stockout Rate (3.22%), Dead Stock % (2.56%), Reorder Point
+- Delivered a 3-page interactive Power BI dashboard covering executive overview, inventory risk analysis, and replenishment prioritisation
+
+<div align="left">
+  <a href="https://github.com/ross-bi/04_Inventory_Performance_Analysis">
+    <img src="https://img.shields.io/badge/View_Project-04_Inventory_Performance_Analysis-blue?style=for-the-badge&logo=github" alt="Inventory Performance Analysis">
+  </a>
+</div>
+
+---
 
 ## Professional Certificates (via Coursera)
 
