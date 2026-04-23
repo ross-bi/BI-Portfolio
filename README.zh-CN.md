@@ -87,7 +87,7 @@
 - 关键发现：Email Abandoned Cart 以每次获客成本 $2.27 达成 ROAS 45.12x；Google Display Remarketing 为唯一负 ROI 活动（ROAS 0.70x，-30%）
 
 <div align="left">
-  <a href="https://github.com/ross-bi/03_Traffic_Sources_Ad_ROI_Analysis/blob/main/README.zh-TW.md">
+  <a href="https://github.com/ross-bi/03_Traffic_Sources_Ad_ROI_Analysis/blob/main/README.zh-CN.md">
     <img src="https://img.shields.io/badge/查看专案-03_Traffic_Sources_Ad_ROI_Analysis-blue?style=for-the-badge&logo=github" alt="Traffic Sources Ad ROI Analysis">
   </a>
 </div>
@@ -107,7 +107,7 @@
 - 交付 3 页交互式 Power BI 仪表板，涵盖管理层总览、库存风险分析及补货优先排序
 
 <div align="left">
-  <a href="https://github.com/ross-bi/04_Inventory_Performance_Analysis/blob/main/README.zh-TW.md">
+  <a href="https://github.com/ross-bi/04_Inventory_Performance_Analysis/blob/main/README.zh-CN.md">
     <img src="https://img.shields.io/badge/查看专案-04_Inventory_Performance_Analysis-blue?style=for-the-badge&logo=github" alt="Inventory Performance Analysis">
   </a>
 </div>
