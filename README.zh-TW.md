@@ -75,6 +75,44 @@
 </div>
 
 ---
+### 3. 流量來源與廣告 ROI 分析
+**Python · Google BigQuery · SQL · Power BI**
+
+以模擬的 2024 年全年資料，分析五大流量渠道（Google Ads、Facebook Ads、Email、自然流量、直接流量）的廣告效益與投資回報率（ROI）。
+
+- 使用 Python（pandas、NumPy、Faker）以 `seed=42` 生成可重現的模擬資料
+- 在 BigQuery 執行完整 ETL 清洗流程（NULL 檢查、去重、欄位標準化、衍生欄位）
+- 建立星型結構資料模型（`campaigns` → `ad_impressions` / `sessions` / `conversions`），並建立 5 組分析 SQL Views
+- 交付 3 頁互動式 Power BI 儀表板，涵蓋渠道績效、CTR vs CVR 分析及活動 ROI 排名
+- 關鍵發現：Email Abandoned Cart 以每次獲客成本 $2.27 達成 ROAS 45.12x；Google Display Remarketing 為唯一負 ROI 活動（ROAS 0.70x，-30%）
+
+<div align="left">
+  <a href="https://github.com/ross-bi/03_Traffic_Sources_Ad_ROI_Analysis/blob/main/README.zh-TW.md">
+    <img src="https://img.shields.io/badge/查看專案-03_Traffic_Sources_Ad_ROI_Analysis-blue?style=for-the-badge&logo=github" alt="Traffic Sources Ad ROI Analysis">
+  </a>
+</div>
+
+---
+
+### 4. 庫存績效分析
+**PostgreSQL · Power BI · Python · SQL**
+
+使用 PwC × Kaggle 庫存分析案例資料集（約 1,280 萬筆銷售交易、80 家門市），分析一家多門市酒類零售商 2016 年全年的庫存績效。
+
+- 建立 Python 批次載入器（`psycopg2` + `COPY`），處理超出標準工具上限的 1,280 萬筆銷售檔案
+- 執行三層 ELT 流程（raw → staging → marts），包含防禦性型別轉換與 7 節資料品質驗證
+- 設計星型結構，包含 `dim_product`、`dim_store`、`dim_vendor`、`dim_date`、`fact_sales` 及 `fact_inventory_snapshot`
+- 在 PostgreSQL 以視窗函數實作靜態 ABC 分類，避免 Power BI Import Mode 計算逾時
+- 計算 5 個庫存 KPI：庫存週轉率（4.24x）、DSI（86 天）、缺貨率（3.22%）、死庫存率（2.56%）、再訂購點
+- 交付 3 頁互動式 Power BI 儀表板，涵蓋管理層總覽、庫存風險分析及補貨優先排序
+
+<div align="left">
+  <a href="https://github.com/ross-bi/04_Inventory_Performance_Analysis/blob/main/README.zh-TW.md">
+    <img src="https://img.shields.io/badge/查看專案-04_Inventory_Performance_Analysis-blue?style=for-the-badge&logo=github" alt="Inventory Performance Analysis">
+  </a>
+</div>
+
+---
 
 ## 專業證書（Coursera）
 
