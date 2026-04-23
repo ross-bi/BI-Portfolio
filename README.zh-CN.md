@@ -69,7 +69,7 @@
 - 分析各流量来源、设备及地区的转化率表现
 
 <div align="left">
-  <a href="https://github.com/ross-bi/02_Ecommerce_Customer_Journey/blob/master/README.zh-CN.md">
+  <a href="https://github.com/ross-bi/02_Ecommerce_Customer_Journey/blob/main/README.zh-CN.md">
     <img src="https://img.shields.io/badge/查看项目-02_Ecommerce_Customer_Journey-blue?style=for-the-badge&logo=github" alt="Ecommerce Customer Journey">
   </a>
 </div>
@@ -107,7 +107,7 @@
 - 交付 3 页交互式 Power BI 仪表板，涵盖管理层总览、库存风险分析及补货优先排序
 
 <div align="left">
-  <a href="https://github.com/ross-bi/04_Inventory_Performance_Analysis/blob/main/README.zh-CN.md">
+  <a href="https://github.com/ross-bi/04_Inventory_Performance_Analysis/blob/master/README.zh-CN.md">
     <img src="https://img.shields.io/badge/查看专案-04_Inventory_Performance_Analysis-blue?style=for-the-badge&logo=github" alt="Inventory Performance Analysis">
   </a>
 </div>
