@@ -2,7 +2,7 @@
 &nbsp;&nbsp;
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-blue?style=for-the-badge)](README.zh-CN.md)
 
-# 商業智慧作品集 — Ross Tang（鄧仲文）
+# 商業智慧作品集 — Ross Tang
 
 歡迎瀏覽我的 BI 作品集。這個 repo 記錄了我從行政運營背景自學轉職數據分析的完整歷程，所有成果均來自實際專案、線上課程以及在現職公司的親身應用。
 
