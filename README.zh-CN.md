@@ -2,7 +2,7 @@
 &nbsp;&nbsp;
 [![繁體中文](https://img.shields.io/badge/繁體中文-点击查看-blue?style=for-the-badge)](README.zh-TW.md)
 
-# 商业智慧作品集 — Ross Tang（邓仲文）
+# 商业智慧作品集 — Ross Tang
 
 欢迎浏览我的 BI 作品集。这个 repo 记录了我从行政运营背景自学转职数据分析的完整历程，所有成果均来自实际项目、线上课程以及在现职公司的亲身应用。
 
@@ -71,6 +71,44 @@
 <div align="left">
   <a href="https://github.com/ross-bi/02_Ecommerce_Customer_Journey/blob/main/README.zh-CN.md">
     <img src="https://img.shields.io/badge/查看项目-02_Ecommerce_Customer_Journey-blue?style=for-the-badge&logo=github" alt="Ecommerce Customer Journey">
+  </a>
+</div>
+
+---
+### 3. 流量来源与广告 ROI 分析
+**Python · Google BigQuery · SQL · Power BI**
+
+以仿真的 2024 年全年数据，分析五大流量渠道（Google Ads、Facebook Ads、Email、自然流量、直接流量）的广告效益与投资回报率（ROI）。
+
+- 使用 Python（pandas、NumPy、Faker）以 `seed=42` 生成可重现的仿真数据
+- 在 BigQuery 执行完整 ETL 清洗流程（NULL 检查、去重、字段标准化、衍生字段）
+- 建立星型结构数据模型（`campaigns` → `ad_impressions` / `sessions` / `conversions`），并建立 5 组分析 SQL Views
+- 交付 3 页交互式 Power BI 仪表板，涵盖渠道绩效、CTR vs CVR 分析及活动 ROI 排名
+- 关键发现：Email Abandoned Cart 以每次获客成本 $2.27 达成 ROAS 45.12x；Google Display Remarketing 为唯一负 ROI 活动（ROAS 0.70x，-30%）
+
+<div align="left">
+  <a href="https://github.com/ross-bi/03_Traffic_Sources_Ad_ROI_Analysis/blob/main/README.zh-TW.md">
+    <img src="https://img.shields.io/badge/查看专案-03_Traffic_Sources_Ad_ROI_Analysis-blue?style=for-the-badge&logo=github" alt="Traffic Sources Ad ROI Analysis">
+  </a>
+</div>
+
+---
+
+### 4. 库存绩效分析
+**PostgreSQL · Power BI · Python · SQL**
+
+使用 PwC × Kaggle 库存分析案例数据集（约 1,280 万笔销售交易、80 家门市），分析一家多门市酒类零售商 2016 年全年的库存绩效。
+
+- 建立 Python 批次加载器（`psycopg2` + `COPY`），处理超出标准工具上限的 1,280 万笔销售档案
+- 执行三层 ELT 流程（raw → staging → marts），包含防御性型别转换与 7 节数据质量验证
+- 设计星型结构，包含 `dim_product`、`dim_store`、`dim_vendor`、`dim_date`、`fact_sales` 及 `fact_inventory_snapshot`
+- 在 PostgreSQL 以窗口函数实作静态 ABC 分类，避免 Power BI Import Mode 计算逾时
+- 计算 5 个库存 KPI：库存周转率（4.24x）、DSI（86 天）、缺货率（3.22%）、死库存率（2.56%）、再订购点
+- 交付 3 页交互式 Power BI 仪表板，涵盖管理层总览、库存风险分析及补货优先排序
+
+<div align="left">
+  <a href="https://github.com/ross-bi/04_Inventory_Performance_Analysis/blob/main/README.zh-TW.md">
+    <img src="https://img.shields.io/badge/查看专案-04_Inventory_Performance_Analysis-blue?style=for-the-badge&logo=github" alt="Inventory Performance Analysis">
   </a>
 </div>
 
