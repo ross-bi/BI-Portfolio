@@ -69,7 +69,7 @@
 - 分析各流量来源、设备及地区的转化率表现
 
 <div align="left">
-  <a href="https://github.com/ross-bi/02_Ecommerce_Customer_Journey/blob/main/README.zh-CN.md">
+  <a href="https://github.com/ross-bi/02_Ecommerce_Customer_Journey/blob/master/README.zh-CN.md">
     <img src="https://img.shields.io/badge/查看项目-02_Ecommerce_Customer_Journey-blue?style=for-the-badge&logo=github" alt="Ecommerce Customer Journey">
   </a>
 </div>
