@@ -107,7 +107,7 @@
 - 交付 3 頁互動式 Power BI 儀表板，涵蓋管理層總覽、庫存風險分析及補貨優先排序
 
 <div align="left">
-  <a href="https://github.com/ross-bi/04_Inventory_Performance_Analysis/blob/main/README.zh-TW.md">
+  <a href="https://github.com/ross-bi/04_Inventory_Performance_Analysis/blob/master/README.zh-TW.md">
     <img src="https://img.shields.io/badge/查看專案-04_Inventory_Performance_Analysis-blue?style=for-the-badge&logo=github" alt="Inventory Performance Analysis">
   </a>
 </div>
