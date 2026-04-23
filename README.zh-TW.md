@@ -58,7 +58,7 @@
 
 ---
 
-### 2. 電商顧客旅程分析
+### 2. 電商客戶旅程分析
 **BigQuery · PostgreSQL · dbt · Power BI**
 
 使用 Google BigQuery 公開資料集（GA4 Obfuscated Sample E-Commerce，2020 年 11 月，共 30 天資料），進行端對端電商顧客旅程分析。
