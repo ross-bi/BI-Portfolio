@@ -10,9 +10,7 @@ Welcome to my BI portfolio. This repository documents my self-directed transitio
 
 ## About Me
 
-BI & Operations Coordinator with 20 years of hands-on experience in shipping operations,
-import/export documentation, warehouse tracking, and business process coordination —
-now transitioning into Operations Analyst and BI Analyst roles.
+Operations professional with 20 years of hands-on experience in shipping operations, import/export documentation, warehouse tracking, and business process coordination, since 2025 transitioning into BI and Operations Analyst roles.
 
 My operational background gives me a practical edge in data work: I understand how inventory
 moves through a supply chain, how freight documentation maps to cost centres, and how warehouse
