@@ -10,17 +10,9 @@ Welcome to my BI portfolio. This repository documents my self-directed transitio
 
 ## About Me
 
-Operations professional with 20 years of hands-on experience in shipping operations, import/export documentation, warehouse tracking, and business process coordination, since 2025 transitioning into BI and Operations Analyst roles.
-
-My operational background gives me a practical edge in data work: I understand how inventory
-moves through a supply chain, how freight documentation maps to cost centres, and how warehouse
-KPIs (turnover, dead stock, reorder point) reflect real business decisions — not just numbers
-in a dashboard.
-
-I build end-to-end BI portfolio projects using SQL, PostgreSQL, Power BI, dbt, and BigQuery
-to analyse sales performance, customer journeys, advertising ROI, and inventory operations.
-My goal is to bridge domain knowledge with data engineering — turning messy operational data
-into clear, actionable insights for business stakeholders.
+Operations professional with 20 years of hands-on experience in shipping operations, import/export documentation, warehouse operations, inventory tracking, and business process coordination. Since moving into a BI & Operations Coordinator role in 2025, I have been transitioning toward BI and Operations Analyst roles.
+My operational background gives me a practical edge in data work: I understand how inventory moves through a supply chain, how freight documentation maps to cost centres, and how warehouse KPIs (turnover, dead stock, reorder point) reflect real business decisions — not just numbers in a dashboard.
+I build end-to-end BI portfolio projects using SQL, PostgreSQL, Power BI, dbt, and BigQuery to analyse sales performance, customer journeys, advertising ROI, and inventory operations. My goal is to bridge domain knowledge with data engineering, turning messy operational data into clear, actionable insights for business stakeholders.
 
 ---
 
