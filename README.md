@@ -114,9 +114,15 @@ Analysed full-year 2016 inventory performance of a multi-store liquor retailer u
 
 ---
 
-## Professional Certificates (via Coursera)
+## Certifications
 
-### Data Analytics & BI
+### Microsoft Certification
+
+| Certificate | Institution | Verification |
+|---|---|---|
+| Microsoft Certified: Power BI Data Analyst Associate (Exam PL-300) | Microsoft |
+
+### Coursera Professional Certificates
 
 | Certificate | Institution | Verification |
 |---|---|---|
@@ -124,15 +130,7 @@ Analysed full-year 2016 inventory performance of a multi-store liquor retailer u
 | Google Data Analytics Professional Certificate | Google | <a href="https://coursera.org/verify/professional-cert/RB0NWMXRN2MQ"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logoColor=white"></a> |
 | IBM Data Analyst Professional Certificate | IBM | <a href="https://coursera.org/verify/professional-cert/2VW236K260MZ"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logoColor=white"></a> |
 | IBM Generative AI for BI Analysts Specialization | IBM | <a href="https://coursera.org/verify/specialization/142IUDS1KXQV"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logoColor=white"></a> |
-| Microsoft Power BI Data Analyst Professional Certificate | Microsoft | <a href="https://coursera.org/verify/professional-cert/JZMXX254FKRO"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logoColor=white"></a> |
 
-### Business & Strategy
-
-| Certificate | Institution | Verification |
-|---|---|---|
-| Business Analytics Specialization | Wharton School, University of Pennsylvania | <a href="https://coursera.org/verify/specialization/645M6SNKGD6Q"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white"></a> |
-| AI for Business Specialization | University of Pennsylvania | <a href="https://coursera.org/verify/specialization/VD2YUSGHNWFK"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white"></a> |
-| Business Strategy Specialization | University of Virginia | <a href="https://coursera.org/verify/specialization/K1JDTG148466"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=ibm&logoColor=white"></a> |
 
 ---
 
