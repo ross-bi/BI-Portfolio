@@ -114,9 +114,15 @@
 
 ---
 
-## 專業證書（Coursera）
+## 認證
 
-### 數據分析與商業智慧
+### 微軟認證
+
+| 證書名稱 | 發證機構 | 驗證連結 |
+|---|---|---|
+| Microsoft Certified: Power BI Data Analyst Associate (Exam PL-300) | Microsoft |  |
+
+### Coursera專業證書
 
 | 證書名稱 | 發證機構 | 驗證連結 |
 |---|---|---|
@@ -124,15 +130,7 @@
 | Google Data Analytics Professional Certificate | Google | <a href="https://coursera.org/verify/professional-cert/RB0NWMXRN2MQ"><img src="https://img.shields.io/badge/驗證-blue?style=for-the-badge&logoColor=white"></a> |
 | IBM Data Analyst Professional Certificate | IBM | <a href="https://coursera.org/verify/professional-cert/2VW236K260MZ"><img src="https://img.shields.io/badge/驗證-blue?style=for-the-badge&logoColor=white"></a> |
 | IBM Generative AI for BI Analysts Specialization | IBM | <a href="https://coursera.org/verify/specialization/142IUDS1KXQV"><img src="https://img.shields.io/badge/驗證-blue?style=for-the-badge&logoColor=white"></a> |
-| Microsoft Power BI Data Analyst Professional Certificate | Microsoft | <a href="https://coursera.org/verify/professional-cert/JZMXX254FKRO"><img src="https://img.shields.io/badge/驗證-blue?style=for-the-badge&logoColor=white"></a> |
 
-### 商業與策略
-
-| 證書名稱 | 發證機構 | 驗證連結 |
-|---|---|---|
-| Business Analytics Specialization | Wharton School, University of Pennsylvania | <a href="https://coursera.org/verify/specialization/645M6SNKGD6Q"><img src="https://img.shields.io/badge/驗證-blue?style=for-the-badge&logo=ibm&logoColor=white"></a> |
-| AI for Business Specialization | University of Pennsylvania | <a href="https://coursera.org/verify/specialization/VD2YUSGHNWFK"><img src="https://img.shields.io/badge/驗證-blue?style=for-the-badge&logo=ibm&logoColor=white"></a> |
-| Business Strategy Specialization | University of Virginia | <a href="https://coursera.org/verify/specialization/K1JDTG148466"><img src="https://img.shields.io/badge/驗證-blue?style=for-the-badge&logo=ibm&logoColor=white"></a> |
 
 ---
 
