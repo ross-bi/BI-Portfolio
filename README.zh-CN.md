@@ -124,7 +124,7 @@
 |---|---|---|
 | Microsoft Certified: Power BI Data Analyst Associate (Exam PL-300) | Microsoft |  |
 
-### Coursera专业证书
+### 专业证书
 
 | 证书名称 | 发证机构 | 验证链接 |
 |---|---|---|
