@@ -126,10 +126,11 @@
 
 | 證書名稱 | 發證機構 | 驗證連結 |
 |---|---|---|
+| Microsoft Power BI Data Analyst Professional Certificate | Microsoft | <a href="https://coursera.org/verify/professional-cert/JZMXX254FKRO"><img src="https://img.shields.io/badge/驗證-blue?style=for-the-badge&logoColor=white"></a> |
 | Google Business Intelligence Professional Certificate | Google | <a href="https://coursera.org/verify/professional-cert/P6RVCIH4QIRA"><img src="https://img.shields.io/badge/驗證-blue?style=for-the-badge&logoColor=white"></a> |
 | Google Data Analytics Professional Certificate | Google | <a href="https://coursera.org/verify/professional-cert/RB0NWMXRN2MQ"><img src="https://img.shields.io/badge/驗證-blue?style=for-the-badge&logoColor=white"></a> |
 | IBM Data Analyst Professional Certificate | IBM | <a href="https://coursera.org/verify/professional-cert/2VW236K260MZ"><img src="https://img.shields.io/badge/驗證-blue?style=for-the-badge&logoColor=white"></a> |
-| Microsoft Power BI Data Analyst Professional Certificate | Microsoft | <a href="https://coursera.org/verify/professional-cert/JZMXX254FKRO"><img src="https://img.shields.io/badge/驗證-blue?style=for-the-badge&logoColor=white"></a> |
+
 
 
 ---
