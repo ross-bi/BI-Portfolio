@@ -128,6 +128,7 @@ Analysed full-year 2016 inventory performance of a multi-store liquor retailer u
 |---|---|---|
 | Microsoft Power BI Data Analyst Professional Certificate | Microsoft | <a href="https://coursera.org/verify/professional-cert/JZMXX254FKRO"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logoColor=white"></a> |
 | Google Business Intelligence Professional Certificate | Google | <a href="https://coursera.org/verify/professional-cert/P6RVCIH4QIRA"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logoColor=white"></a> |
+| IBM Generative AI for BI Analysts Specialization | IBM | <a href="https://coursera.org/verify/specialization/142IUDS1KXQV"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logoColor=white"></a> |
 | Google Data Analytics Professional Certificate | Google | <a href="https://coursera.org/verify/professional-cert/RB0NWMXRN2MQ"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logoColor=white"></a> |
 | IBM Data Analyst Professional Certificate | IBM | <a href="https://coursera.org/verify/professional-cert/2VW236K260MZ"><img src="https://img.shields.io/badge/Verify-blue?style=for-the-badge&logoColor=white"></a> |
 
