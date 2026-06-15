@@ -114,15 +114,8 @@ Analysed full-year 2016 inventory performance of a multi-store liquor retailer u
 
 ---
 
-## Certifications
+## Certificates & Specializations
 
-### Microsoft Certification
-
-| Certificate | Institution | Verification |
-|---|---|---|
-| Microsoft Certified: Power BI Data Analyst Associate (Exam PL-300) | Microsoft |
-
-### Certificates & Specializations
 
 | Certificate | Institution | Verification |
 |---|---|---|
