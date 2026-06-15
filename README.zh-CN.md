@@ -116,15 +116,7 @@
 
 ---
 
-## 认证
-
-### 微软认证
-
-| 证书名称 | 发证机构 | 验证链接 |
-|---|---|---|
-| Microsoft Certified: Power BI Data Analyst Associate (Exam PL-300) | Microsoft |  |
-
-### 专业证书与专项课程
+## 专业证书与专项课程
 
 | 证书名称 | 发证机构 | 验证链接 |
 |---|---|---|
