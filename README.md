@@ -4,17 +4,7 @@
 
 # Business Intelligence Portfolio — Ross Tang
 
-Welcome to my BI portfolio. This repository documents my self-directed transition into data analytics and business intelligence — built entirely through hands-on project work, online study, and practical application at my current employer.
-
----
-
-## About Me
-
-I am an operations professional with extensive hands-on experience in shipping coordination, import/export documentation, warehouse support, inventory tracking, and business process coordination. Since moving into a BI & Operations Coordinator role in 2025, I have been transitioning toward Business Intelligence and Operations Analyst positions.
-
-My operational background gives me a practical edge in data work: I understand how inventory moves through a supply chain, how freight documentation maps to cost centres, and how warehouse KPIs (turnover, dead stock, reorder point) reflect real business decisions — not just numbers in a dashboard.
-
-I build end-to-end BI portfolio projects using SQL, PostgreSQL, Power BI, dbt, and BigQuery to analyse sales performance, customer journeys, advertising ROI, and inventory operations. My goal is to bridge domain knowledge with data engineering, turning messy operational data into clear, actionable insights for business stakeholders.
+This GitHub contains my projects in Power BI, data analysis, and operational reporting. With a background in logistics operations and SME business support, I am building an Operations + BI path by applying Power BI, Excel, and SQL to sales, product, customer, and invoice analysis.
 
 ---
 
