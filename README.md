@@ -4,7 +4,7 @@
 
 # Business Intelligence Portfolio — Ross Tang
 
-This GitHub contains my projects in Power BI, data analysis, and operational reporting. With a background in logistics operations and SME business support, I am building an Operations + BI path by applying Power BI, Excel, and SQL to sales, product, customer, and invoice analysis.
+Welcome, this GitHub contains my projects in Power BI, data analysis, and operational reporting. With a background in logistics operations and SME business support, I am building an Operations + BI path by applying Power BI, Excel, and SQL to sales, product, customer, and invoice analysis.
 
 ---
 
