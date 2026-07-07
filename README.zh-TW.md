@@ -4,7 +4,7 @@
 
 # 商業智慧作品集 — Ross Tang
 
-這個 GitHub 整理我在 Power BI、資料分析及營運報表方面的項目。我的背景來自物流營運及中小企商務支援，現正逐步發展 Operations + BI 路線，並把 Power BI、Excel 及 SQL 應用到銷售、產品、客戶及發票分析之中。
+歡迎，這個 GitHub 整理我在 Power BI、資料分析及營運報表方面的項目。我的背景來自物流營運及中小企商務支援，現正逐步發展 Operations + BI 路線，並把 Power BI、Excel 及 SQL 應用到銷售、產品、客戶及發票分析之中。
 
 ---
 
