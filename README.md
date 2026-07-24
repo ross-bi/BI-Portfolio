@@ -22,11 +22,6 @@ Welcome, this GitHub contains my projects in Power BI, data analysis, and operat
 - Star Schema / Snowflake Schema
 - ETL pipeline design
 
-**Other Tools**
-- Excel (Pivot Tables, advanced formulas)
-- Git / GitHub
-- NAS & UPS system setup and maintenance
-
 ---
 
 ## Portfolio Projects
